@@ -9,6 +9,7 @@ function TransactionsList({transactionsArr, search}) {
     const sievedTransactions = transactionsArr.filter(transaction => {
       return (transaction.description.toLowerCase().includes(search.toLowerCase()))
   })
+
   allTransactions = sievedTransactions.map((transaction) => {
     return <Transaction 
       key={transaction.id}
@@ -16,7 +17,6 @@ function TransactionsList({transactionsArr, search}) {
       description={transaction.description}
       category={transaction.category}
       amount={transaction.amount}
-      
     />
   })
   }

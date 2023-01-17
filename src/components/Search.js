@@ -1,6 +1,7 @@
 import React from "react";
 
 function Search({search, setSearch}) {
+  
   function handleSearch(event){
     setSearch(event.target.value);
   }
