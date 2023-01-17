@@ -36,9 +36,6 @@ Change directory to the repo folder by typing the following in the terminal:
 
 After it opens in Visual Studio Code, type;
 
-`cd my-app`
-
-After moving into my-app, type;
 
 `npm install`
 
