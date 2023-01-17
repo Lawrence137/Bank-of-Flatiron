@@ -38,11 +38,8 @@ After it opens in Visual Studio Code, type;
 
 
 `npm install`
-
-After its done installing type the following;
-
-`npm install -g json-server`
-
+ 
+ 
 # Running the Application
 
 
@@ -52,14 +49,8 @@ Select new terminal and a terminal should open at the bottom of the page.
 
 In the terminal, type the following;
 
- ``npm run server``
- 
- If its working, it should load and say 'watching...' on the last line.
-
-
-After that open another terminal and type;
-
  `npm start`
+ 
  
   This should open a new tab in your browser which displays the transactions.
 
