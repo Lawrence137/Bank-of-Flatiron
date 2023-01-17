@@ -97,69 +97,6 @@
       "category": "Food",
       "amount": "3000",
       "id": 14
-    },
-    {
-      "date": "2023-01-05",
-      "description": "dinner",
-      "category": "basic",
-      "amount": "777",
-      "id": 15
-    },
-    {
-      "date": "2023-01-31",
-      "description": "lunch",
-      "category": "basic",
-      "amount": "5432",
-      "id": 16
-    },
-    {
-      "date": "2023-01-12",
-      "description": "dinner",
-      "category": "basic",
-      "amount": "333",
-      "id": 17
-    },
-    {
-      "date": "2023-01-05",
-      "description": "dinner",
-      "category": "basic",
-      "amount": "789",
-      "id": 18
-    },
-    {
-      "date": "2023-01-18",
-      "description": "dinner",
-      "category": "basic",
-      "amount": "433",
-      "id": 19
-    },
-    {
-      "date": "2023-01-04",
-      "description": "vbfgh",
-      "category": "gdrg",
-      "amount": "4567",
-      "id": 20
-    },
-    {
-      "date": "2023-01-04",
-      "description": "dinner",
-      "category": "basic",
-      "amount": "909",
-      "id": 21
-    },
-    {
-      "date": "2023-01-05",
-      "description": "dinner",
-      "category": "basic",
-      "amount": "322",
-      "id": 22
-    },
-    {
-      "date": "2023-01-02",
-      "description": "dinner",
-      "category": "basic",
-      "amount": "444",
-      "id": 23
     }
   ]
 }
