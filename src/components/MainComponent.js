@@ -8,7 +8,7 @@ function MainComponent() {
   const [transactions, setTransaction] = useState([])
   const [search, setSearch] = useState("")
   useEffect(() => {
-    fetch("http://localhost:8001/transactions")
+    fetch("https://my-json-server.typicode.com/Lawrence137/db/transactions")
     .then(r => r.json())
     .then((data) => setTransaction(data))
   },[])

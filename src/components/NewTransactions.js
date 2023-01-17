@@ -10,7 +10,7 @@ function NewTransactions({newTransaction}) {
   
   function handleSubmit(event){
     event.preventDefault();
-    fetch("http://localhost:8001/transactions", {
+    fetch("https://my-json-server.typicode.com/Lawrence137/db/transactions", {
       method: "POST",
       headers: {
         "content-Type": "application/json"
