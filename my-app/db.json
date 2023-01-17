@@ -146,6 +146,13 @@
       "category": "basic",
       "amount": "909",
       "id": 21
+    },
+    {
+      "date": "2023-01-05",
+      "description": "dinner",
+      "category": "basic",
+      "amount": "322",
+      "id": 22
     }
   ]
 }
