@@ -7,7 +7,7 @@ function Search({search, setSearch}) {
   }
 
   return (
-    <div >
+    <div className="inputsContainer" >
       <input
        className="input"
         type="text"
